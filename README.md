@@ -1,4 +1,5 @@
-# Q
+# QMPSC --- inherits from Q repo (https://github.com/KjellKod/Q) but will be dedicated solely to MPSC queues (multi producer, single consumer)
+
 Collection of public domain queue's by KjellKod
 All queues are in-process, thread-to-thread queues. 
 
